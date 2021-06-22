@@ -16,6 +16,6 @@ Be a good friend. Invite your friends and both you and your friend get $5 worth 
 Our email list is growing, so we need a way to make sure everyone is receiving the updates; Presenting you the release notes! No more waiting out on emails for an update.
 
 #### All the small things 🧮
-- Teams page saw an update in the design to improve your experience
-- Collapsible menu that gives you more space to focus on projects
+- *Teams page* saw a design update to improve your experience
+- *Collapsible menu* that gives you more space to focus on projects
 
