@@ -1,4 +1,4 @@
-### Here's what's new 🔔
+### v1.3 - Here's what's new 🔔
 #### Tell your story - Profiles 👩🏻‍💼. 
 Your profile page can now be public! The world will love your profile and maybe even love you back.
 
