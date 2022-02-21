@@ -3,7 +3,7 @@ name: Product Feedback
 about: Give feedback for this project
 title: "[Feedback] "
 labels: Feedback
-assignees: namanmaheshwari97, rohanpooniwala, priya314, chanh-1
+assignees: chanh-1, namanmaheshwari97, priya314, rohanpooniwala
 
 ---
 
