@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: "[BUG] Bug-Title"
 labels: bug
-assignees: namanmaheshwari97, rohanpooniwala, priya314, chanh-1
+assignees: chanh-1, namanmaheshwari97, priya314, rohanpooniwala
 
 ---
 
